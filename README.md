@@ -1,2 +1,2 @@
-# Flow-Shop-Problem---Java
+# Flow Shop Problem
 Fluxo de produção em máquinas
